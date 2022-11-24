@@ -1,4 +1,4 @@
-# Create a loop which modifies a variable each time the loop runs from memory
+# Use built-in methods for strings and numbers
 
 # 1. Write a program that asks the user to enter a word, then prints that word with all capital letters.
 
