@@ -97,4 +97,4 @@ elif v > 20:
 else:
   print(1)
 
-# SOLUTIONS: tbd
+# SOLUTIONS: https://github.com/kyle-pazdel/deliberate-practice/blob/main/Python/solutions/1_conditionals2_solutions.py
