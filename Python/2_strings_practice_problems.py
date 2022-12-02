@@ -68,4 +68,4 @@ c3 = "Milwaukee"
 print(c1.capitalize() + ", " + c2 + ", and " + c3 + "are all in the Mid-West.")
 
 
-# SOLUTIONS: tbd
+# SOLUTIONS: https://github.com/kyle-pazdel/deliberate-practice/blob/main/Python/solutions/2_strings_solutions.py
