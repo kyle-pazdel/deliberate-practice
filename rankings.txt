@@ -1,0 +1,42 @@
+Current Self-Ranking
+0: I can't do it
+1: I can do it with someone's help
+2: I can do it by myself using notes 
+3: I can do it by myself without using notes
+4: I can do it by myself without using notes with accuracy and speed"
+
+1_conditionals2_practice_solutions
+Ruby |4|, JavaScript |3|, Python |3|
+
+2_strings_practice_problems
+Ruby | |, JavaScript | |, Python | |
+
+3_methods_practice_problems
+Ruby | |, JavaScript | |, Python | |
+
+4_loops2_practice_problems
+Ruby |4|, JavaScript |2|, Python | |
+
+5_arrays1_practice_problems
+Ruby | |, JavaScript | |, Python | |
+
+6_hash_practice_problems
+Ruby | |, JavaScript | |, Python | |
+
+7_functions_practice_problems
+Ruby | |, JavaScript | |, Python | |
+
+8_arrays_map_practice_problems
+Ruby | |, JavaScript | |, Python | |
+
+9_arrays_select_practice_problems
+Ruby | |, JavaScript | |, Python | |
+
+10_arrays_reduce_practice_problems
+Ruby | |, JavaScript | |, Python | |
+
+11_converting_data_practice_problems
+Ruby | |, JavaScript | |, Python | |
+
+12_nested_arrays_practice_problems
+Ruby | |, JavaScript | |, Python | |
