@@ -9,7 +9,7 @@ Current Self-Ranking
 Ruby |4|, JavaScript |3|, Python |3|
 
 2_strings_practice_problems
-Ruby | |, JavaScript | |, Python | |
+Ruby |4|, JavaScript | |, Python |2|
 
 3_methods_practice_problems
 Ruby | |, JavaScript | |, Python | |
