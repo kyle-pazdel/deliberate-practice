@@ -15,7 +15,10 @@ Ruby |4|, JavaScript |2|, Python |3|
 Ruby |4|, JavaScript |2|, Python | |
 
 4_loops2_practice_problems
-Ruby |4|, JavaScript |2|, Python | |
+With While Loops:
+Ruby |4|, JavaScript |3|, Python |2|
+With For Loops:
+Ruby | |, JavaScript | |, Python | |
 
 5_arrays1_practice_problems
 Ruby |3|, JavaScript | |, Python | |
