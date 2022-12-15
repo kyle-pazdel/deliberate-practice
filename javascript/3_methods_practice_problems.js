@@ -1,24 +1,24 @@
-// // Use built-in methods for strings and numbers
+// Use built-in methods for strings and numbers
 
-// // 1. Write a program that asks the user to enter a word, then prints that word with all capital letters.
+// 1. Write a program that asks the user to enter a word, then prints that word with all capital letters.
 
-// const response1 = window.prompt("Enter a word: ");
-// console.log(response1.toUpperCase());
+const response1 = window.prompt("Enter a word: ");
+console.log(response1.toUpperCase());
 
-// // 2. Write a program that asks the user to enter a number, then prints "That's a big number" if the number is greater than 100.
+// 2. Write a program that asks the user to enter a number, then prints "That's a big number" if the number is greater than 100.
 
-// const response2 = window.prompt("Enter a number: ");
-// if (parseInt(response2) > 100) {
-//   console.log("That's a big number");
-// }
+const response2 = window.prompt("Enter a number: ");
+if (parseInt(response2) > 100) {
+  console.log("That's a big number");
+}
 
-// // 3. Write a program that asks the user to enter two numbers, then prints the numbers added together.
+// 3. Write a program that asks the user to enter two numbers, then prints the numbers added together.
 
-// const response3 = window.prompt("Enter a number: ");
-// const response3b = window.prompt("Enter another number: ");
-// console.log(parseInt(response3) + parseInt(response3b));
+const response3 = window.prompt("Enter a number: ");
+const response3b = window.prompt("Enter another number: ");
+console.log(parseInt(response3) + parseInt(response3b));
 
-// // 4. Write a program that asks the user to enter a word, then prints that word in reverse order.
+// 4. Write a program that asks the user to enter a word, then prints that word in reverse order.
 
 const response4 = window.prompt("Enter a word: ");
 const reverse = response4.split("").reverse().join("");
@@ -35,13 +35,34 @@ while (i5 < 10) {
 
 // 6. Write a program that asks the user to enter two words, then prints both words on the same line in all capital letters.
 
+const response6 = window.prompt("Enter a word: ");
+const response6b = window.prompt("Enter another word: ");
+console.log(response6.toUpperCase() + " " + response6b.toUpperCase());
+
 // 7. Write a program that asks the user to enter a word, then prints the number of letters in the word.
+
+const response7 = window.prompt("Enter a word: ");
+console.log(response7.split("").length);
 
 // 8. Write a program that asks the user to enter a number, then prints "That's a negative number" if the number is less than 0.
 
+const response8 = window.prompt("Enter a number: ");
+if (parseInt(response8) < 0) {
+  console.log("That's a negative number");
+}
+
 // 9. Write a program that asks the user to enter two numbers, then prints the two numbers multiplied together.
 
+const response9 = window.prompt("Enter a number: ");
+const response9b = window.prompt("Enter another number: ");
+console.log(parseInt(response9) * parseInt(response9b));
+
 // 10. Write a program that asks the user to enter a word, then prints "That's a long word" if the word has more than 5 letters.
+
+const response10 = window.prompt("Enter a word: ");
+if (response10.length > 5) {
+  console.log("That's a long word");
+}
 
 // JavaScript solutions: https://gist.github.com/peterxjang/d30d686d6dbe194dbb89465849b6926f
 
