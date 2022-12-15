@@ -1,14 +1,37 @@
-// Use built-in methods for strings and numbers
+// // Use built-in methods for strings and numbers
 
-// 1. Write a program that asks the user to enter a word, then prints that word with all capital letters.\
+// // 1. Write a program that asks the user to enter a word, then prints that word with all capital letters.
 
-// 2. Write a program that asks the user to enter a number, then prints "That's a big number" if the number is greater than 100.
+// const response1 = window.prompt("Enter a word: ");
+// console.log(response1.toUpperCase());
 
-// 3. Write a program that asks the user to enter two numbers, then prints the numbers added together.
+// // 2. Write a program that asks the user to enter a number, then prints "That's a big number" if the number is greater than 100.
 
-// 4. Write a program that asks the user to enter a word, then prints that word in reverse order.
+// const response2 = window.prompt("Enter a number: ");
+// if (parseInt(response2) > 100) {
+//   console.log("That's a big number");
+// }
+
+// // 3. Write a program that asks the user to enter two numbers, then prints the numbers added together.
+
+// const response3 = window.prompt("Enter a number: ");
+// const response3b = window.prompt("Enter another number: ");
+// console.log(parseInt(response3) + parseInt(response3b));
+
+// // 4. Write a program that asks the user to enter a word, then prints that word in reverse order.
+
+const response4 = window.prompt("Enter a word: ");
+const reverse = response4.split("").reverse().join("");
+console.log(reverse);
 
 // 5. Write a program that asks the user to enter a number, then prints the number times 10.
+
+const response5 = window.prompt("Enter a number: ");
+var i5 = 0;
+while (i5 < 10) {
+  console.log(parseInt(response5));
+  i5++;
+}
 
 // 6. Write a program that asks the user to enter two words, then prints both words on the same line in all capital letters.
 

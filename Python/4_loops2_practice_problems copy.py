@@ -73,4 +73,4 @@ while i <= 40:
   print(i)
   i += 2
 
-# SOLUTIONS: tbd
+# SOLUTIONS: https://github.com/kyle-pazdel/deliberate-practice/blob/main/Python/solutions/4_loops2_practice_solutions.py.py
