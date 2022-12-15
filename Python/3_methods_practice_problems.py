@@ -2,11 +2,26 @@
 
 # 1. Write a program that asks the user to enter a word, then prints that word with all capital letters.
 
+response = input("Enter a word: ")
+print(response.upper())
+
 # 2. Write a program that asks the user to enter a number, then prints "That's a big number" if the number is greater than 100.
+
+response = input("Enter a number: ")
+if int(response) > 100:
+  print("That's a big number")
 
 # 3. Write a program that asks the user to enter two numbers, then prints the numbers added together.
 
+response = input("Enter a number: ")
+response2 = input("Enter another number: ")
+print(int(response) + int(response2))
+
 # 4. Write a program that asks the user to enter a word, then prints that word in reverse order.
+
+# response = input("Enter a word: ")
+# print(response[::-1])
+
 
 # 5. Write a program that asks the user to enter a number, then prints the number times 10.
 
