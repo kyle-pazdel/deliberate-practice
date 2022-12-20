@@ -60,4 +60,4 @@ response = input("Enter a word: ")
 if len(response) > 5:
   print("That's a long word")
 
-# SOLUTIONS: tbd
+# SOLUTIONS: https://github.com/kyle-pazdel/deliberate-practice/blob/main/Python/4_loops2_practice_problems.py
