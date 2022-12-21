@@ -1,4 +1,5 @@
 # Create a loop which modifies a variable each time the loop runs from memory
+# FOR LOOPS
 
 # 1. Write a while loop to print the numbers 1 through 10.
 
