@@ -57,4 +57,3 @@ while not len(response) > 5:
 for i in range(2, 41, 2):
   print(i)
 
-# SOLUTIONS While Loops: https://github.com/kyle-pazdel/deliberate-practice/blob/main/Python/solutions/4_loops2_practice_solutions.py.py

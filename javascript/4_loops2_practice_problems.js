@@ -14,7 +14,7 @@ for (let i = 0; i < 5; i += 1) {
 
 // 3. Write a loop that asks the user to enter a word and will run forever until the user enters the word "stop".
 
-eslint-disable-next-line for-direction
+// eslint-disable-next-line for-direction
 for (let i = 1; i > 0; i++) {
   var response3 = window.prompt("Enter a word: ");
   if (response3.toLowerCase() === "stop") {
@@ -36,8 +36,8 @@ for (let i = 0; i < 10; i++) {
 
 // 6. Write a loop that asks the user to enter a number and will run forever until the user enters a number greater than 10.
 
-eslint-disable-next-line for-direction
-for (i = 1; i > 0; i++) {
+// eslint-disable-next-line for-direction
+for (let i = 1; i > 0; i++) {
   var response6 = window.prompt("Enter a number: ");
   if (parseInt(response6) > 10) {
     break;
@@ -46,13 +46,13 @@ for (i = 1; i > 0; i++) {
 
 // 7. Write a loop that prints the numbers 50 to 70.
 
-for (i = 50; i <= 70; i++) {
+for (let i = 50; i <= 70; i++) {
   console.log(i);
 }
 
 // 8. Write a loop that prints the phrase "Around the world" 144 times.
 
-for (i = 1; i <= 144; i++) {
+for (let i = 1; i <= 144; i++) {
   console.log(`${i}: Around the world`);
 }
 
