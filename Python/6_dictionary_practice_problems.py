@@ -70,4 +70,4 @@ print(shirt["color"])
 print(shirt["size"])
 
 
-# SOLUTIONS: tbd
+# SOLUTIONS: https://github.com/kyle-pazdel/deliberate-practice/blob/main/Python/solutions/6_dictionary_solutions.py
