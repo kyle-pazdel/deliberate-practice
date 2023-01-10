@@ -24,7 +24,7 @@ Ruby |2|, JavaScript |2|, Python |2|
 Ruby |3|, JavaScript | |, Python |3|
 
 6_hash_practice_problems
-Ruby |2|, JavaScript | |, Python | |
+Ruby |3|, JavaScript | |, Python | |
 
 7_functions_practice_problems
 Ruby | |, JavaScript | |, Python | |
