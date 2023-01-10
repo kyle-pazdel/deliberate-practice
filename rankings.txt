@@ -21,7 +21,7 @@ With For Loops:
 Ruby |2|, JavaScript |2|, Python |2|
 
 5_arrays1_practice_problems
-Ruby |3|, JavaScript | |, Python | |
+Ruby |3|, JavaScript | |, Python |3|
 
 6_hash_practice_problems
 Ruby |2|, JavaScript | |, Python | |

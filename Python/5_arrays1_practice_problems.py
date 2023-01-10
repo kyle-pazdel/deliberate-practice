@@ -64,4 +64,4 @@ arr = ["Country One", "Country Three", "Country Four"]
 arr.insert(1, "Country Two")
 print(arr)
 
-# SOLUTIONS: tbd
+# SOLUTIONS: https://github.com/kyle-pazdel/deliberate-practice/blob/main/Python/solutions/5_arrays1_solutions.py
