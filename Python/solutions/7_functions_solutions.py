@@ -100,4 +100,4 @@ def times_ten_and_thirty(num):
 
 print(times_ten_and_thirty(10))
 
-# SOLUTIONS: tbd
+# SOLUTIONS: https://github.com/kyle-pazdel/deliberate-practice/blob/main/Python/solutions/7_functions_solutions.py
