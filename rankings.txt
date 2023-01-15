@@ -30,7 +30,7 @@ Ruby |3|, JavaScript | |, Python |3|
 Ruby |4|, JavaScript | |, Python |3|
 
 8_arrays_map_practice_problems
-Ruby | |, JavaScript | |, Python | |
+Ruby |2|, JavaScript | |, Python | |
 
 9_arrays_select_practice_problems
 Ruby | |, JavaScript | |, Python | |
