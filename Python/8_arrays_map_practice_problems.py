@@ -75,4 +75,4 @@ print(list(array_of_strings))
 
 # SOLUTIONS (using while loop): tbd
 # SOLUTIONS (using .each shortcut): tbd
-# SOLUTIONS (using .map shortcut): tbd
+# SOLUTIONS (using map() shortcut): https://github.com/kyle-pazdel/deliberate-practice/blob/main/Python/solutions/8_arrays_map_solution_map_and_lambda.py
