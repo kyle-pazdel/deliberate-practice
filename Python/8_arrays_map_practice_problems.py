@@ -94,6 +94,6 @@ for number in numbers:
     numbers_to_strings.append(str(number))
 print(numbers_to_strings)
 
-# SOLUTIONS (using for loops): tbd
-# SOLUTIONS (using .each shortcut): tbd
+# SOLUTIONS (using for loops): https://github.com/kyle-pazdel/deliberate-practice/blob/main/Python/solutions/8_arrays_map_solutions_for_loops.py
 # SOLUTIONS (using map() shortcut): https://github.com/kyle-pazdel/deliberate-practice/blob/main/Python/solutions/8_arrays_map_solution_map_and_lambda.py
+# SOLUTIONS (using .each shortcut): tbd
