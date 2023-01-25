@@ -36,7 +36,8 @@ With map() and lambda functions
 Ruby |3|, JavaScript | |, Python |2|
 
 9_arrays_select_practice_problems
-Ruby | |, JavaScript | |, Python | |
+With for loops
+Ruby |4|, JavaScript | |, Python | |
 
 10_arrays_reduce_practice_problems
 Ruby | |, JavaScript | |, Python | |
