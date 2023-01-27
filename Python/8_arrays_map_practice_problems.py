@@ -4,7 +4,7 @@
 #     For example, [1, 2, 3] becomes [3, 6, 9].
 
 arr = [1, 2, 3]
-new_arr = map(lambda x: x*3, arr)
+new_arr = map(lambda num: num * 3, arr)
 print(list(new_arr))
 
 #  2. Start with an array of strings and create a new array with each string upcased.
