@@ -27,13 +27,13 @@ Ruby |4|, JavaScript |3|, Python |3|
 Ruby |3|, JavaScript |3|, Python |3|
 
 7_functions_practice_problems
-Ruby |4|, JavaScript | |, Python |3|
+Ruby |4|, JavaScript |3|, Python |3|
 
 8_arrays_map_practice_problems
 With for loops
 Ruby | |, JavaScript | |, Python |3|
 With map() and lambda functions
-Ruby |3|, JavaScript | |, Python |3|
+Ruby |3|, JavaScript |2|, Python |3|
 
 9_arrays_select_practice_problems
 With for loops
