@@ -131,6 +131,4 @@ for (let i = 0; i < arr10.length; i++) {
 }
 console.log(result10);
 
-// SOLUTIONS (using while loop): https://gist.github.com/peterxjang/d204a0c689d201ceefe2b8e639cc3a27
-// SOLUTIONS (using .each shortcut): https://gist.github.com/peterxjang/9dc4ae6d3029d95b6d7e88f056809bb9
-// SOLUTIONS (using .select shortcut): https://gist.github.com/peterxjang/88500dbd311a510940b6a693e65ec7f1
+// SOLUTIONS (using while loop): https://github.com/kyle-pazdel/deliberate-practice/blob/main/javascript/solutions/9_arrays_select_solutions.js
