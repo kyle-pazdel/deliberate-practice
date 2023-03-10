@@ -33,7 +33,7 @@ Ruby |4|, JavaScript |3|, Python |3|
 With for loops
 Ruby | |, JavaScript | |, Python |3|
 With map() and lambda functions
-Ruby |3|, JavaScript |2|, Python |3|
+Ruby |3|, JavaScript |4|, Python |3|
 
 9_arrays_select_practice_problems
 With for loops
