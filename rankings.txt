@@ -6,44 +6,44 @@ Current Self-Ranking
 4: I can do it by myself without using notes with accuracy and speed"
 
 1_conditionals2_practice_solutions
-Ruby |4|, JavaScript |3|, Python |3|
+Ruby |4|, JavaScript |3|, Python |3|, Java ||
 
 2_strings_practice_problems
-Ruby |4|, JavaScript |3|, Python |3|
+Ruby |4|, JavaScript |3|, Python |3|, Java | |
 
 3_methods_practice_problems
-Ruby |4|, JavaScript |3|, Python |2|
+Ruby |4|, JavaScript |3|, Python |2|, Java | |
 
 4_loops2_practice_problems
 With While Loops:
-Ruby |4|, JavaScript |3|, Python |3|
+Ruby |4|, JavaScript |3|, Python |3|, Java | |
 With For Loops:
-Ruby |2|, JavaScript |2|, Python |2|
+Ruby |2|, JavaScript |2|, Python |2|, Java | |
 
 5_arrays1_practice_problems
-Ruby |4|, JavaScript |3|, Python |3|
+Ruby |4|, JavaScript |3|, Python |3|, Java | |
 
 6_hash_practice_problems / 6_dictionary_practice_problems
-Ruby |3|, JavaScript |3|, Python |3|
+Ruby |3|, JavaScript |3|, Python |3|, Java | |
 
 7_functions_practice_problems
-Ruby |4|, JavaScript |3|, Python |3|
+Ruby |4|, JavaScript |3|, Python |3|, Java | |
 
 8_arrays_map_practice_problems
 With for loops
-Ruby | |, JavaScript | |, Python |3|
+Ruby | |, JavaScript | |, Python |3|, Java | |
 With map() and lambda functions
-Ruby |4|, JavaScript |4|, Python |3|
+Ruby |4|, JavaScript |4|, Python |3|, Java | |
 
 9_arrays_select_practice_problems
 With for loops
-Ruby |4|, JavaScript |4|, Python | |
+Ruby |4|, JavaScript |4|, Python | |, Java | |
 
 10_arrays_reduce_practice_problems
-Ruby | |, JavaScript | |, Python | |
+Ruby | |, JavaScript | |, Python | |, Java | |
 
 11_converting_data_practice_problems
-Ruby | |, JavaScript | |, Python | |
+Ruby | |, JavaScript | |, Python | |, Java | |
 
 12_nested_arrays_practice_problems
-Ruby | |, JavaScript | |, Python | |
+Ruby | |, JavaScript | |, Python | |, Java | |
