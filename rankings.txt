@@ -12,7 +12,7 @@ Ruby |4|, JavaScript |3|, Python |3|, Java ||
 Ruby |4|, JavaScript |3|, Python |3|, Java | |
 
 3_methods_practice_problems
-Ruby |4|, JavaScript |3|, Python |2|, Java | |
+Ruby |4|, JavaScript |3|, Python |3|, Java | |
 
 4_loops2_practice_problems
 With While Loops:
@@ -40,7 +40,7 @@ With for loops
 Ruby |4|, JavaScript |4|, Python | |, Java | |
 
 10_arrays_reduce_practice_problems
-Ruby | |, JavaScript | |, Python | |, Java | |
+Ruby |4|, JavaScript | |, Python | |, Java | |
 
 11_converting_data_practice_problems
 Ruby | |, JavaScript | |, Python | |, Java | |
