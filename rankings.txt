@@ -37,7 +37,9 @@ Ruby |4|, JavaScript |4|, Python |3|, Java | |
 
 9_arrays_select_practice_problems
 With for loops
-Ruby |4|, JavaScript |4|, Python | |, Java | |
+Ruby |4|, JavaScript |4|, Python |4|, Java | |
+With select method
+Ruby | |, JavaScript | |, Python | |, Java | |
 
 10_arrays_reduce_practice_problems
 Ruby |4|, JavaScript | |, Python | |, Java | |

@@ -104,8 +104,3 @@ for i in arr:
     if i % 2 != 0:
         result.append(i)
 print(list(result))
-
-# SOLUTIONS (using while loop): tbd
-# SOLUTIONS (using for/in loop): tbd
-# SOLUTIONS (using .each shortcut): tbd
-# SOLUTIONS (using .select shortcut): tbd

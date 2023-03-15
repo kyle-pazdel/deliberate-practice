@@ -106,6 +106,6 @@ for i in arr:
 print(list(result))
 
 # SOLUTIONS (using while loop): tbd
-# SOLUTIONS (using for/in loop): tbd
+# SOLUTIONS (using for/in loop): https://github.com/kyle-pazdel/deliberate-practice/blob/main/Python/solutions/9_arrays_select_solutions_for_loops.py
 # SOLUTIONS (using .each shortcut): tbd
 # SOLUTIONS (using .select shortcut): tbd
